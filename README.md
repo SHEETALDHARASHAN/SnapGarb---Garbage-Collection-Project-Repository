@@ -1,1 +1,2 @@
-"# SnapGarb---Garbage-Collection-Project-Repository" 
+# mini
+Mini project website.
